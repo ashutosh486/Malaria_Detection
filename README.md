@@ -27,3 +27,5 @@ Steps to Run the Program :
 1. Run malaria_gui.m
 2. Click on Image Acquision Button when the GUI is loaded. Select any Infected Image.
 3. Run All the tests sequentially.
+
+Note : If you want to run this file without GUI then run Malaria_detection.m
